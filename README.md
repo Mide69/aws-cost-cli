@@ -1,3 +1,4 @@
+
 # aws-cost-cli
 
 A command-line tool for analyzing AWS spend across services, regions, accounts, and tags — with forecasting, anomaly detection, budget tracking, Slack notifications, and a live watch mode.
@@ -267,7 +268,7 @@ Press **Enter** after each one. This saves your credentials to `~/.aws/credentia
 ## Step 6 — Verify the Installation
 
 Run the following command to confirm everything is connected:
-
+aws 
 ```bash
 aws-cost summary
 ```
