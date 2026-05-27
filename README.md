@@ -2,9 +2,9 @@
 
 A command-line tool for analyzing AWS spend across services, regions, accounts, and tags — with forecasting, anomaly detection, budget tracking, and Slack notifications.
 
+![CI](https://github.com/Mide69/aws-cost-cli/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Tests](https://img.shields.io/badge/tests-28%20passed-brightgreen)
 ![Docker](https://img.shields.io/badge/docker-tektribe%2Faws--cost--cli-blue?logo=docker)
 
 ---
